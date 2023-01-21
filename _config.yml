@@ -107,7 +107,7 @@ archive_generator:
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
-deploy: # 项目发布/部署设置
-  type: git
-  repo: https://github.com/Sxmkkk/sxmkkk.github.io.git
+#deploy: # 项目发布/部署设置
+#  type: git
+#  repo: https://github.com/Sxmkkk/sxmkkk.github.io.git
 #  branch master #
